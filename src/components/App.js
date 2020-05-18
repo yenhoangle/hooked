@@ -1,3 +1,7 @@
+/*parent component to header.js, movie.js, and search.js
+  contains function that handles API request and func that
+  calls API during init render
+*/
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
